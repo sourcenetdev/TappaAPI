@@ -1,0 +1,39 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+#TEAM
+
+    UI developer: Kobus Myburgh
+    Twitter: @Impero_Consult
+    From: Johannesburg, South Africa
+
+    Web designer: Kobus Myburgh
+    Twitter: @Impero_Consult
+    From: Johannesburg, South Africa
+
+    Lead PHP developer: Kobus Myburgh
+    Twitter: @Impero_Consult
+    From: Johannesburg, South Africa
+
+# THANKS
+
+    EN Translator: Kobus Myburgh
+    Twitter: @Impero_Consult
+    From: Johannesburg, South Africa
+
+# TECHNOLOGY COLOPHON
+
+    CSS3
+    HTML5
+    Apache Server Configs
+    PHP
+    MySQL
+    JavaScript
+    jQuery
+
+# SITE DETAILS
+
+    Last update: 2020/10/11
+    Language: English
+    Doctype: HTML5
+    IDE: VSCode

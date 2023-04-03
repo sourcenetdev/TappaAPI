@@ -1,0 +1,131 @@
+id,code,formulation
+1,POO,<unknown>
+2,SLO,<unknown>
+3,ACC  ,Accuhaler
+4,AQS  ,Aqueous nasal spray
+5,ATH  ,Autohaler
+6,BDL  ,Bead lets
+7,CAP  ,Capsules
+8,CPS  ,"Capsules, lung admin"
+9,CHC  ,Chewable capsule
+10,CHU  ,Chewable tablet
+11,CHG  ,Chewing gum
+12,CPC,"Combination pack, capsule"
+13,COM,"Combination pack, special form"
+14,CRE  ,Cream
+15,CRO  ,"Cream, oral, topical"
+16,CRY  ,Crystals
+17,DIA,Dialysate
+18,BIS  ,Diskette
+19,DSP  ,Dispersible tablet
+20,PED,Disposable pen
+21,DOU  ,Douche
+22,DRO  ,"Drops, External"
+23,DRP  ,"Drops, oral"
+24,DMY,Dummy
+25,EAR  ,Ear drops
+26,EFT  ,Effervescent tablet
+27,EMO,Emollient
+28,ENE  ,"Enema, topical"
+29,ERT,"Enteric coated tablet, retard"
+30,ECT  ,Enteric coated tablets
+31,ECC,Enteric coated tablets within a capsule
+32,EEN  ,Eye and ear and nose drops
+33,EED  ,Eye and ear drops
+34,EEO  ,Eye and ear ointment
+35,OPM  ,"Eye drops, minims"
+36,EYO  ,Eye ointment
+37,FCT,Film coated tablet
+38,FCR  ,"Film-coated tablet, retard"
+39,FOA  ,"Foam, topical external"
+40,GUS  ,"Gauze, with substance"
+41,GEL,"Gels, oral, systemic"
+42,GEO  ,"Gels, oral, topical"
+43,GRE,"Granules, external"
+44,GRA  ,"Granules, oral"
+45,IMP  ,Implant
+46,INF  ,Infusion
+47,INH  ,Inhaled
+48,REF  ,"Inhaler, refill"
+49,INJ  ,Injection
+50,OPI  ,Intra ocular injection
+51,IUD,Intra-uterine device
+52,JES  ,"Jel, systemic"
+53,JUD  ,"Jel, systemic, unit dose"
+54,JEL  ,"Jel, topical external"
+55,JUT  ,"Jel, topical unit dose"
+56,KIT  ,Kit
+57,MLS  ,Liquid galenicals
+58,LIQ  ,"Liquid, oral"
+59,LIT  ,"Liquid, Topical"
+60,LFI  ,Liquids for inhalation
+61,LOT  ,Lotion
+62,LOZ  ,"Lozenges, oral"
+63,LZS  ,"Lozenges, oral"
+64,MLT  ,Melt tablet|Oral dispersable tablet
+65,MOW  ,Mouthwash
+66,MUP,Multiple-unit pellet system
+67,NOD  ,"Nasal drop, topical"
+68,NAG  ,Nasal gel
+69,NIC  ,"Nasal inhaler caps, topical"
+70,NAS  ,Nasal spray
+71,NSS  ,"Nasal spray, systemic"
+72,OLT  ,"Oil, topical"
+73,OIN  ,"Ointment, external"
+74,OIO  ,"Ointment, oral topical"
+75,OIR  ,"ointment, rectal systemic"
+76,OPG  ,Ophthalmic gel drop
+77,OPD  ,Opthalmic drops
+78,ODT  ,Oral drugs tear
+79,OSP,Oral spray
+80,PSD  ,"Pad, with substance"
+81,PAD  ,"Pad, without substance"
+82,PAI  ,"Paint, external"
+83,PIO  ,"Paints, oral, topical"
+84,PAS  ,"Paste, external"
+85,PAO  ,"Paste, oral, topical"
+86,PTD  ,"Patch, transdermal, systemic"
+87,PLA  ,"Plaster, without substance"
+88,POI,Powder for injection
+89,POR  ,"Powder, external"
+90,POW  ,"Powder, oral"
+91,PWO  ,"Powder, oral, topical"
+92,SAC  ,Sachet
+93,SCL  ,Scalp lotion
+94,SCR  ,Scrub
+95,SHA  ,Shampoo
+96,SRC  ,Slow release capsule|Sustained release capsule
+97,SRT  ,Slow release tablet
+98,SLW  ,"Soap, quid wash"
+99,SOP  ,Soap|Solid wash|Soap bar
+100,NEB  ,Solution for inhalation
+101,SLN  ,"Solution, external"
+102,SOL  ,"Solution, oral"
+103,SPO  ,"Spray, oral, topical"
+104,SPC  ,Sprinkle capsule
+105,SLL  ,Sublingual liquid
+106,SLT  ,Sublingual tablet
+107,SUH  ,"Suppository, haemorrhoidal"
+108,SPP  ,"Suppository, paed, system"
+109,SUP  ,"Suppository, systemic"
+110,SUS  ,Suspension
+111,SNG  ,Syringe
+112,SYR  ,Syrup
+113,TCB,"Tablet, combination pack"
+114,TBL  ,"Tablet, external"
+115,TAB  ,Tablets (oral)
+116,SPR  ,"Topical spray, external"
+117,STI  ,Topical sticks
+118,TPN  ,Total parenteral nutrition
+119,TBH  ,Turbohaler
+120,UDV  ,Unit dose vial for inhalation
+121,UNI,"Unit, inhaler devices"
+122,UDL,Units dose oral liquid
+123,VAC  ,Vaccine
+124,PVC  ,Vaginal capsule
+125,VCR  ,Vaginal cream
+126,VAF  ,Vaginal foam
+127,VAG  ,Vaginal gel
+128,VRI  ,Vaginal ring
+129,VAT  ,Vaginal tablet|Vaginal capsule
+130,WAF  ,Wafers

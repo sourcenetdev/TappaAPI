@@ -1,0 +1,3 @@
+ERROR - 2021-09-19 20:04:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\Users\kobus\OneDrive - Impero Consulting\htdocs\kcms_base\application\libraries\Cornerstone\CSDatabase.php 256
+ERROR - 2021-09-19 20:09:46 --> Severity: Warning --> Trying to access array offset on value of type null C:\Users\kobus\OneDrive - Impero Consulting\htdocs\kcms_base\application\libraries\Cornerstone\CSDatabase.php 256
+ERROR - 2021-09-19 20:12:22 --> Severity: Warning --> Trying to access array offset on value of type null C:\Users\kobus\OneDrive - Impero Consulting\htdocs\kcms_base\application\libraries\Cornerstone\CSDatabase.php 256

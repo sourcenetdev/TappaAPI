@@ -1,0 +1,75 @@
+id,contra_indication
+1,Pregnancy
+2,Breastfeeding
+3,Men
+4,Babies born before 37 weeks
+5,Babies weighing less than 4kg
+6,Children under 2 months
+7,Children under 3 months
+8,Children under 6 months
+9,Children under 1 year
+10,Children under 2 years
+11,Children over 2 years
+12,Children under 6 years
+13,Children under 12 years
+14,Children under 16 years
+15,Children under 18 years
+16,Adults over 55 years with new or recently changed symptoms
+17,Diabetes
+18,Fructose intolerance
+19,Glucose-galactose malabsorption
+20,Sucrose-isomaltose insufficiency
+21,Methaemoglobinaemia
+22,Epiglottitis
+23,Immunocompromised and terminally ill
+24,Only for face and lips
+25,Long term conditions requiring regular pain relief
+26,Asthma
+27,Bronchiectasis
+28,Severe Hypertension
+29,Unstable high blood pressure
+30,Heart disease
+31,Severe coronary artery disease
+32,Taking anticoagulants
+33,Stomach ulcer
+34,Perforation or bleeding (active or history of)
+35,Severe renal impairment
+36,Severe renal or hepatic impairment
+37,"Renal, hepatic or cardiac impairment"
+38,Not for use in Chicken Pox
+39,Phaeochromocytoma
+40,Hyperthyroidism
+41,Closed angle glaucoma
+42,If it has spread to the face
+43,Do not use on broken skin or infected skin
+44,Rectal bleeding or blood in the stool
+45,"Use on the eyes, face or ano-genital area"
+46,Inflammatory bowel disease
+47,Post bowel surgery
+48,Post pelvic radiation
+49,Colorectal cancer
+50,Patients on low potassium/sodium diets
+51,Jaundice
+52,Severe dehydration
+53,Hypercalcaemia
+54,Peptic ulceration
+55,Elderly taking NSAIDS
+56,Galactosaemia
+57,Digestive perforation or risk of digestive perforation
+58,Gastro-intestinal obstruction
+59,Existing blood dyscrasias
+60,Epilepsy
+61,Parkinson's disease
+62,Prostatic hypertrophy
+63,Narrow angle glaucoma
+64,Raised intra-ocular pressure including glaucoma
+65,Taking lithium therapy
+66,Patients taking Warfarin
+67,Parkinsons
+68,Taken monoamine oxidase inhibitors within the last 14 days
+69,Paralytic ileus
+70,Pyloric stenosis
+71,Myasthenia gravis
+72,"Moles, birthmarks, hairy warts or skin lesions"
+73,Impaired peripheral circulation
+74,Porphyria

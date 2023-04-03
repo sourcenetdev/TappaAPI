@@ -1,0 +1,186 @@
+id,condition,condition_description,condition_rationale,about_condition,advice_to_patient,exceptions
+1,Acute sore throat,Self limiting condition,"A sore throat due to a viral or bacterial cause is a self-limiting condition. Symptoms resolve within 3 days in 40% of people, and within 1 week in 85% of people, irrespective of whether or not the sore throat is due to a streptococcal infection.
+
+There is little evidence to suggest that treatments such as lozenges or throat sprays help to treat the cause of sore throat and patients should be advised to take simple painkillers and implement some self-care measures such as gargling with warm salty water instead.",There is little evidence to suggest that treatments such as lozenges or throat sprays help to treat the cause of sore throat. ,"Patient action:
+1. Extremely common and likely to get better in 3-7 days and a maximum of 2 weeks.
+2. Most last for an average of 8 days. You will not need antibiotics for most throat infections.
+3. Speak to your local pharmacist about Over the Counter (OTC) medicines
+4. Take simple painkillers and implement some self care measures such as gargling with warm salty water instead. ","1. Drooling/difficult to swallow - urgent!
+2. Persistent high temp over 38 degrees for more than 3 days that doesn’t come down with paracetamol or ibuprofen
+3. Symptoms last longer than 10-14 days
+4. Hard to breathe/drink fluids"
+2,Infrequent cold sores of the lip,Self limiting condition,"Cold sores caused by the herpes simplex virus usually clear up without treatment within 7 to 10 days. Antiviral creams are available over the counter from pharmacies without a prescription and if used correctly, these can help ease symptoms and speed up the healing time. To be effective, these treatments should be applied as soon as the first signs of a cold sore appear. Using an antiviral cream after this initial period is unlikely to have much of an effect.",Cold sores caused by the herpes simplex virus usually clear up without treatment within seven to ten days ,"Antiviral creams are available OTC from pharmacies without a prescription. If used correctly, they can help ease symptoms and speed up the healing time. 
+
+To be effective, apply as soon as the first signs of a cold sore appear.
+
+Using an antiviral cream after this initial period is unlikely to have much of an effect. ","1. Immunocompromised patients
+2. Red flag symptoms "
+3,"Coughs, colds, nasal congestion",Self limiting condition,Most colds start to improve in 7 to 10 days. Most coughs clear up within two to three weeks. Both conditions can cause nasal congestion. Neither condition requires any treatment.,"1. Most colds start to improve in 7-10 days.
+2. Most coughs clear up within 2-3 weeks.
+3. Both conditions can cause nasal congestion.
+4. Neither condition requires any treatment.
+5. However, some over the counter medicines help to relieve short term fevers and nasal congestion. ","These conditions do not require any treatment. However, some over the counter medicines help to relieve short term fevers and nasal congestion. ","1. Temp above 39 degrees
+2. Confusion/disorientation
+3. Sharp chest pain
+4. Symptoms have lasted longer than 3 weeks
+5. Coughing up blood"
+4,Conjunctivitis,Self limiting condition,"Treatment isn’t usually needed for conjunctivitis as the symptoms usually clear within a week. There are several self-care measures that may help with symptoms. If treatment is needed, then treatment is dependent on the cause:
+1. In severe bacterial cases, antibiotic eye drops and eye ointments can be used to clear the infection.
+2. Irritant conjunctivitis will clear up as soon as whatever is causing it is removed.
+3. Allergic conjunctivitis can usually be treated with antiallergy medications such as antihistamines. The substance that caused the allergy should be avoided.
+
+Treatments for conjunctivitis can be purchased over the counter however almost half of all simple cases of conjunctivitis clear up within ten days without any treatment. Doctors advise that children with infective conjunctivitis do not need to be excluded from school, nursery or child minders, and do not state any requirement for treatment with topical antibiotics.","Treatment is not usually needed for conjunctivitis as the symptoms usually clear within a week. There are several self care measures that may help with symptoms. If treatment is needed, then treatment is dependent on the cause: 
+1. In severe bacterial cases, antibiotic eye drops and eye ointments can be used to clear the infection.
+2. Irritant conjunctivitis will clear up as soon as whatever is causing it is removed.
+3. Allergic conjunctivitis can usually be treated with antiallergy medications such as antihistamines. The substance that caused the allergy should be avoided.",Treatments for conjunctivitis can be purchased over the counter however almost half of all simple cases of conjunctivitis clear up within ten days without any treatment. ,1. Loss of vision/sensitive to light 
+5,Infant colic,Self limiting condition,"As colic eventually improves on its own, medical treatment isn’t usually recommended. There are some over-the-counter treatments available that could be tried however; there is limited evidence for the effectiveness of these treatments","As colic eventually improves on its own, medical treatment is not usually recommended. ","Patient Action:
+1. Check self care leaflet for advice on comforting baby and treatments available.
+2. The most useful intervention is support for parents and reassurance that colic will resolve. 
+3. Speak to a healthcare provider if concerns about baby's symptoms or parent/guardian feels unable to cope 
+4. There are some over the counter medicines available. However, there is limited evidence for the effectiveness of these treatments. ",
+6,Cradle cap,Self limiting condition,"Cradle cap is harmless and doesn’t usually itch or cause discomfort. It usually appears in babies in the first two months of their lives, and clears up without treatment within weeks to a few months","1. Cradle cap is harmless and does not usually itch or cause discomfort.
+2. It usually appears in babies in the first two months of their lives, and clears up without treatment within weeks to a few months. ",Cradle cap treatment should not routinely be offered in primary care as the condition is self-limiting and will clear up on its own without the need for treatment. ,If causing distress to the infant and not improving 
+7,Haemorrhoids,Self limiting condition,"In many cases, haemorrhoids don't cause symptoms and some people don't even realise they have them. Haemorrhoids often clear up by themselves after a few days. Making simple dietary changes and not straining on the toilet are often recommended first. However, there are many treatments (creams, ointments and suppositories) that can reduce itching and discomfort and these are available over the counter for purchase.","1. In many cases, haemorrhoids do not cause symptoms and some people do not even realise they have them.
+2. Haemorrhoids often clear up by themselves after a few days. 
+3. Making simple dietary changes and not straining on the toilet are often recommended first. ","Treatments (creams, ointments and suppositories) can reduce itching and discomfort and these are available over the counter for purchase. ",
+8,Mild cystitis,Self limiting condition,"Mild cystitis is a common type of urinary tract inflammation, normally caused by an infection; however it is usually more of a nuisance than a cause for serious concern. Mild cases can be defined as those that are responsive to symptomatic treatment but will also clear up on their own. If symptoms don’t improve in 3 days, despite self-care measures, then the patient should be advised to see their GP. Symptomatic treatment using products that reduce the acidity of the urine to reduce symptoms are available, but there's a lack of evidence to suggest they're effective.","1. Mild cystitis is a common type of urinary tract inflammation, normally caused by an infection; however it is usually more of a nuisance than a cause for serious concern.
+2. Mild cases can be defined as those that are responsive to symptomatic treatment but will also clear up on their own.
+3. If symptoms do not improve in three days, despite self care measures, then you should see your GP. ","Symptomatic treatment using products that reduce the acidity of the urine to reduce symptoms are available, but there is a lack of evidence to suggest they are effective. ",
+9,Sunburn,Minor illness suitable for self care,"Most people manage sun burn symptoms themselves or prevent symptoms developing, using sun protection, by using products that can easily be bought in a pharmacy or supermarket.",Most people manage sun burn symptoms themselves or prevent symptoms developing by using sun protection. These products can easily be bought in a pharmacy or supermarket. ,"1. Cool your skin by having a cold bath or shower, sponging it with cold water or holding a flannel to it.
+2. Use lotions containing aloe vera to soothe and moisturise the skin and drink plenty of fluids to avoid dehydration.
+3. Take painkillers such as paracetamol or ibuprofen to relieve the pain if required.
+4. See Practice Nurse if blistered. Pharmacy if normal sunburn",
+10,Dandruff,Minor illness suitable for self care,Dandruff is a common skin condition. It can be defined as mild scaling of the scalp without itching. Dandruff isn't contagious or harmful and can be easily treated with over the counter antifungal shampoos. A GP appointment is unnecessary. Patients should be encouraged to manage mild dandruff with long term over the counter treatments.,Dandruff is a common skin condition. It can be defined as mild scaling of the scalp without itching. Dandruff is not contagious or harmful. ,Dandruff can be easily treated with over the counter antifungal shampoos. ,
+11,Mild irritant dermatitis,Minor illness suitable for self care,"Irritant dermatitis is a type of eczema triggered by contact with a particular substance. Once treated most people can expect their symptoms to improve and/or clear up completely if the irritant or allergen can be identified and removed or avoided It is most commonly caused by irritants such as soaps, washing powders, detergents, solvents or regular contact with water. Treatment normally involves avoiding the allergen or irritant and treating symptoms with over the counter emollients and topical corticosteroids.","1. Irritant dermatitis is a type of eczema triggered by contact with a particular substance.
+2. Once treated most people can expect their symptoms to improve and/or clear up completely if the irritant or allergen can be identified and removed or avoided.
+3. It is most commonly caused by irritants such as soaps, washing powders, detergents, solvents or regular contact with water. ",Treatment normally involves avoiding the allergen or irritant and treating symptoms with over the counter emollients and topical corticosteroids. ,
+12,Diarrhoea (adults only) ,Minor illness suitable for self care,"Diarrhoea normally affects most people from time to time and is usually nothing to worry about. However it can take a few days to a week to clear up. Acute diarrhoea is usually caused by a bacterial or viral infection and other causes include drugs, anxiety or a food allergy. OTC treatments can help replace lost fluids or reduce bowel motions. This recommendation does not apply to children.","1. Diarrhoea normally affects most people from time to time and is usually nothing to worry about. However, it can take a 3-7 days to clear up. 
+2. Acute diarrhoea is usually caused by a bacterial or viral infection and other causes include drugs, anxiety or a food allergy. ","Symptoms can last up to one week. Patient Action:
+1. Drink fluids
+2. Speak to your local pharmacist about Over the Counter (OTC) medicines that can help replace lost fluids or reduce bowel motions.","1. Still dehydrated despite using rehydration sachets
+2. Bloody stools/bleeding bottom
+3. Diarrhoea for 7 days + or vomiting for 2 days + 
+
+Please note: THIS RECOMMENDATION DOES NOT APPLY TO CHILDREN"
+13,Dry eyes/sore tired eyes ,Minor illness suitable for self care,"Dry eye syndrome, or dry eye disease, is a common condition that occurs when the eyes don’t make enough tears, or the tears evaporate too quickly. Most cases of sore tired eyes resolve themselves. Patients should be encouraged to manage both dry eyes and sore eyes by implementing some self-care measures such as good eyelid hygiene and avoidance of environmental factors alongside treatment Mild to moderate cases of dry eye syndrome or sore tired eyes can usually be treated using lubricant eye treatments that consist of a range of drops, gels and ointments that can be easily be purchased over the counter.","1. Dry eye syndrome, or dry eye disease, is a common condition that occurs when the eyes do not make enough tears, or the tears evaporate too quickly. Most cases of sore tired eyes resolve themselves.
+2. Implement self care measures such as good eyelid hygiene and avoidance of environmental factors alongside treatment. 
+2. Mild to moderate cases of dry eye syndrome or sore tired eyes can usually be treated using lubricant eye treatments that consist of a range of drops, gels and ointments that can be easily be purchased over the counter.",,
+14,Excessive sweating/Hyperhidrosis,Minor illness suitable for self care,Excessive sweating/Hyperhidrosis is a common condition in which a person sweats excessively. First line treatment involves simple lifestyle changes. It can also be treated with over the counter high strength antiperspirants. An antiperspirant containing aluminium chloride is usually the first line of treatment and is sold in most pharmacies.,Hyperhidrosis is a common condition in which a person sweats excessively. First line treatment involves simple lifestyle changes. ,"An antiperspirant containing aluminium chloride is usually the first line of treatment and is sold in most pharmacies. Things you can do to help with excessive sweating are: 
+
+DO
+1. Wear loose-fitting clothes to minimise signs of sweating
+2. Wear socks that absorb moisture and change your socks at least twice a day if possible
+3. Wear leather shoes and try to wear different shoes day to day
+
+DON'T
+1. Wear tight clothes or man-made fabrics – for example, nylon
+2. Wear enclosed boots or sports shoes that may cause your feet to sweat more
+3. Do things that might make your sweating worse – for example, drinking alcohol or eating spicy food",
+15,Indigestion and heartburn,Minor illness suitable for self care,"Most people have indigestion at some point. Usually, it’s not a sign of anything more serious and can be treated at home without the need for medical advice, as it's often mild and infrequent and specialist treatment isn't required. Most people are able to manage their indigestion by making simple diet and lifestyle changes, or taking medication such as antacids. Most people can ease symptoms by simple changes to diet and lifestyle and avoiding foods that make indigestion worse. (e.g. rich spicy or fatty foods, caffeinated drinks).","Most people have indigestion at some point. Usually, it is not a sign of anything more serious and can be treated at home without the need for medical advice, as it is often mild and infrequent and specialist treatment is not required. ","Patient Action:
+1. Most people can manage their indigestion by making simple diet and lifestyle changes, or taking medicine such as antacids. 
+2. Most people can ease symptoms by simple changes to diet and lifestyle and avoiding foods that make indigestion worse (e.g. rich spicy or fatty foods, caffeinated drinks).
+2. Speak to your local pharmacist about Over the Counter (OTC) medicines","1. Vomiting blood or dark lumps (coffee grounds)
+2. Swallowing problems
+3. Unexplained fever/night sweats/weight loss/swelling in abdomen"
+16,Earwax,Minor illness suitable for self care,"Earwax is produced inside ears to keep them clean and free of germs. It usually passes out of the ears harmlessly, but sometimes too much can build up and block the ears. A build-up of earwax is a common problem that can often be treated using eardrops bought from a pharmacy. These can help soften the earwax so that it falls out naturally.","Earwax is produced inside ears to keep them clean and free of germs. It usually passes out of the ears harmlessly, but sometimes too much can build up and block the ears. ",A build-up of earwax is a common problem that can often be treated using eardrops bought over the counter. These can help soften the earwax so that it falls out naturally. ,Perforated ear drum 
+17,Mild dry skin ,Minor illness suitable for self care,"Emollients are often used to help manage dry, itchy or scaly skin conditions. Patients with mild dry skin can be successfully managed using over the counter products on a long term basis.",Patients with mild dry skin can be successfully managed using over the counter products on a long term basis. ,"mollients are often used to help manage dry, itchy or scaly skin conditions. ",
+18,Headlice,Minor illness suitable for self care,"Head lice are a common problem, particularly in school children aged 4-11. They're largely harmless, but can live in the hair for a long time if not treated and can be irritating and frustrating to deal with. Live head lice can be treated by wet combing; chemical treatment OFFICIAL 25 is only recommended in exceptional circumstances and in these cases over the counter medicines can be purchased from a pharmacy. If appropriate everyone in the household needs to be treated at the same time - even if they don't have symptoms. Further information on how to treat head lice without medication can be found on NHS Choices.","Headlice are a common problem, particularly in school children aged 4-11. They are largely harmless, but can live in the hair for a long time if not treated and can be irritating and frustrating to deal with. ","1. It is not always possible to prevent head lice infestation, as they are spread by close head to head contact, especially when children are playing. However, these self care tips will help with detection and prevention.
+2. Frequent checking - carefully looking at your child’s scalp and hair for head lice, especially at the start of the school year. Ideally do this weekly.
+3. ‘Wet combing’- Wash hair as usual then use conditioner, do not wash this off. Use a normal comb to untangle hair, then a fine-toothed head lice detection comb to remove live head lice.
+4. Avoid sharing - Hats, combs, hairbrushes, towels, pillows.
+5. Hair length - People with longer hair are more likely to catch head lice, simply because it is easier for the head lice to transfer to and from longer hair.
+6. Head lice eradication products containing alcohol: there is a risk of serious burns if treated hair is exposed to open flames or other sources of ignition, e.g. cigarettes.","1. Current skin conditions of the scalp
+2. Side effects of a severe infestation"
+19,Warts and verrucae ,Minor illness suitable for self care,Most people will have warts at some point in their life. They are generally harmless and tend to go away on their own eventually. Several treatments can be purchased from a pharmacy to get rid of warts and verrucae more quickly if patients require treatment.,Most people will have warts at some point in their life. ,"1. They are generally harmless and tend to go away on their own eventually.
+2. Several treatments can be purchased from a pharmacy to get rid of warts and verrucae more quickly if you need treatment. ",
+20,Infrequent constipation,Minor illness suitable for self care,"Constipation can affect people of all ages and can be just for a short period of time. It can be effectively managed with a change in diet or lifestyle. Pharmacists can help if diet and lifestyle changes aren't helping. OFFICIAL 26 They can suggest an over the counter laxative. Most laxatives work within 3 days. They should only be used for a short time only. Laxatives are not recommended for children unless they are prescribed by a GP. This guidance applies to short term, infrequent constipation caused by changes in lifestyle or diet such as lack of water or movement or changes in diet.",Constipation can affect people of all ages and can be just for a short period of time. ,It can be effectively managed with a change in diet or lifestyle and short term use of over the counter laxatives. ,"1. Symptoms have lasted longer than 6 weeks
+2. Swollen stomach
+3. Vomiting
+4. Feverish
+5. Feeling unwell
+6. Bloods in stools
+7. Weight loss"
+21,Infrequent headaches and migraine,Minor illness suitable for self care,"Migraine is a common health condition, affecting around one in every five women and around one in every 15 men. Mild infrequent migraines can be adequately treated with over the counter pain killers and a number of combination medicines for migraine are available that contain both painkillers and antisickness medicines. Those with severe or recurrent migraines should continue to seek advice from their GP.","Migraine is a common health condition, affecting around one in every five women and around one in every 15 men. ","Patient Action:
+1. Check self care leaflet for advice on lifestyle changes to prevent/lessen symptoms
+2. Mild infrequent headaches and migraines can be adequately treated with over the counter painkillers, and a number of combination medicines for migraine are available that contain both painkillers and anti-sickness medicines.
+3. Speak to your local pharmacist about Over the Counter (OTC) medicines","1. Stiff neck
+2. Drowsy
+3. Vomiting
+4. Change in speech/personality
+5. Odd sensations/numbness/weakness
+6. Sudden/severe headache 
+7. Photophobia/blind spots"
+22,Insect bites and stings,Minor illness suitable for self care,"Most insect bites and stings are not serious and will get better within a few hours or days. Over-the-counter treatments can help ease symptoms, such as painkillers, creams for itching and antihistamines.",Most insect bites and stings are not serious and will get better within a few hours or days. ,"Over-the-counter treatments can help ease symptoms, such as painkillers, creams for itching and antihistamines. ",
+23,Mild acne ,Minor illness suitable for self care,"Acne is a common skin condition that affects most people at some point. Although acne can't be cured, it can be controlled with treatment. Several creams, lotions and gels for treating acne are available at pharmacies. Treatments can take up to three months to work. Patients should be encouraged to manage mild acne with long term use of over the counter products.","Acne is a common skin condition that affects most people at some point. Although acne cannot be cured, it can be controlled with treatment. ","Several creams, lotions and gels for treating acne are available at pharmacies. Treatments can take up to 3 months to work. ",
+24,Sun protection ,Minor illness suitable for self care,"Most people manage sun burn symptoms themselves or prevent symptoms developing, using sun protection, by using products that can easily be bought in a pharmacy or supermarket.",Most people prevent symptoms of sun damage developing using sun protection. These products can easily be bought in a pharmacy or supermarket. ,Sun protection products can readily be bought in a pharmacy or supermarket. ,"Advisory Committee on Borderline Substances (ACBS) approved indication of photodermatoses, i.e. where skin protection should be prescribed. "
+25,Hay fever/allergic rhinitis,Minor illness suitable for self care,"Hay fever is a common allergic condition that affects up to one in five people. There's currently no cure for hay fever, but most people with mild to moderate symptoms are able to relieve symptoms with OTC treatments recommended by a pharmacist.",Hay fever is a common allergic condition that affects up to 1 in 5 people. ,"Patient Action:
+1. There is currently no cure for hay fever, but most people with mild to moderate symptoms are able to relieve symptoms at home
+2. Check self care leaflet for advice on lifestyle changes to prevent/lessen symptoms
+3. Speak to your local pharmacist about Over the Counter (OTC) medicines","Appointment with practice pharmacist if:
+1. Wheezing/breathless/tight chest
+2. Pregnant/breastfeeding
+3. Symptoms not relieved with OTC medication
+
+Triage if: 
+1. Photophobia
+2. Ear pain
+3. Severe coughing/swollen lymph glands"
+26,Minor burns and scalds,Minor illness suitable for self care,"Burns and scalds are damage to the skin caused by heat. Both are treated in the same way. Depending on how serious a burn is, it is possible to treat burns at home. Antiseptic creams and treatments for burns should be included in any products kept in a medicine cabinet at home.","Burns and scalds are damage to the skin caused by heat. Both are treated in the same way. Depending on how serious a burn is, it is possible to treat burns at home. ","Patient Action:
+1. Antiseptic creams and treatments for burns should be kept in a medicine cabinet at home.
+2. Check self care leaflet for advice on lifestyle changes to prevent/lessen symptoms.
+3. Speak to your local pharmacist about Over the Counter (OTC) medicines.","Serious burns always require professional medical attention. Burns requiring hospital emergency treatment include but are not limited to:
+1. Chemical/electrical burns
+2. Large/deep burns (larger than hand-size)
+3. White/charred skin
+4. Burns of face/hands/arms/feet/legs/genitals and cause blisters
+5. DO NOT SEE GP IF BURNS ARE SEVERE - SEE MINOR INJURY UNIT OR GO TO HOSPITAL"
+27,"Pain, discomfort and/or fever. (e.g. aches and sprains, headache, period pain, back pain)",Minor illness suitable for self care,"1. In most cases, headaches, period pain, mild fever and back pain can be treated at home with over-the-counter painkillers and lifestyle changes, such as getting more rest and drinking enough fluids.
+2. Keep a small supply of OTC analgesics in your medicine cabinet at home so you can manage minor conditions at home without the need for a GP appointment.
+3. Examples of conditions where you can treat yourself at home can include: Headache, colds, fever, earache, teething, period pain, cuts, self-limiting musculoskeletal pain, sprains and strains, bruising, toothache, sinusitis/nasal congestion, recovery after a simple medical procedure, aches and pains and sore throat.","1. In most cases, headaches, period pain, mild fever and back pain can be treated at home with over-the-counter painkillers and lifestyle changes, such as getting more rest and drinking enough fluids.
+2. Keep a small supply of OTC analgesics in your medicine cabinet at home so you can manage minor conditions at home without the need for a GP appointment.
+3. Examples of conditions where you can treat yourself at home can include: Headache, colds, fever, earache, teething, period pain, cuts, self-limiting musculoskeletal pain, sprains and strains, bruising, toothache, sinusitis/nasal congestion, recovery after a simple medical procedure, aches and pains and sore throat.",Patients should be encouraged to keep a small supply of OTC analgesics in their medicines cabinets at home so they are able to manage minor ailments at home without the need for a GP appointment. ,
+28,Mouth ulcers,Minor illness suitable for self care,"Mouth ulcers are usually harmless and do not need to be treated because most clear up by themselves within a week or two. Mouth ulcers are common and can usually be managed at home, without seeing your dentist or GP. However, OTC treatment can help to reduce swelling and ease any discomfort.","Mouth ulcers are usually harmless and do not need to be treated because most clear up by themselves within a week or two. Mouth ulcers are common and can usually be managed at home, without seeing a dentist or GP. ",OTC treatment can help to reduce swelling and ease any discomfort.,
+29,Nappy rash,Minor illness suitable for self care,Up to a third of babies and toddlers in nappies have nappy rash at any one time. Nappy rash can usually be treated at home using barrier creams purchased at the supermarket or pharmacy. Nappy rash usually clears up after about three to seven days if recommended hygiene tips are followed.,Up to a third of babies and toddlers in nappies have nappy rash at any one time. ,"1. Nappy rash can usually be treated at home using a barrier cream.
+2. Nappy rash usually clears up after about 3 days if recommended hygiene tips are followed. ",
+30,Oral thrush,Minor illness suitable for self care,Oral Thrush is a minor condition that can be treated without the need for a GP consultation or prescription in the first instance. It is common in babies and older people with dentures or those using steroid inhalers. It can easily be treated with over the counter gel.,"1. Oral thrush is a minor condition that can be treated without the need for a GP consultation or prescription in the first instance.
+2. It is common in babies and older people with dentures or those using steroid inhalers. ","Patient Action:
+1. It can easily be treated with over the counter gel.
+2. Check self care leaflet for advice on lifestyle changes to prevent/lessen symptoms
+3. Speak to your local pharmacist about Over the Counter (OTC) medicines if not better in 7-10 days
+4. If recurrent bouts - routine appointment with GP who might ask for blood tests to be done",
+31,Prevention of dental caries,Minor illness suitable for self care,The dentist may advise on using higher-strength fluoride toothpaste if you are particularly at risk of tooth decay. Some higher fluoride toothpastes (~1500 ppm) and mouthwashes can be purchased over the counter.,The dentist may advise on using higher-strength fluoride toothpaste if a patient is particularly at risk of tooth decay. ,Higher fluoride toothpastes and mouthwashes can be purchased over the counter. Prescription only preparations can be prescribed by a dentist. ,
+32,Ringworm/athletes foot,Minor illness suitable for self care,"Ringworm is a common fungal infection that can cause a red or silvery ring-like rash on the skin. Despite its name, ringworm doesn't have anything to do with worms. Athlete's foot is a rash caused by a fungus that usually appears between the toes. These fungal infections, medically known as ""tinea"", are not serious and are usually easily treated with over the counter treatments. However, they are contagious and easily spread so it is important to practice good foot hygiene.","Ringworm is a common fungal infection that can cause a red or silvery ring-like rash on the skin. Despite its name, ringworm doesn’t have anything to do with worms. 
+
+Athlete’s foot is a rash caused by a fungus that usually appears between the toes. ","1. These fungal infections, medically known as “tinea”, are not serious and are usually easily treated with over the counter treatments.
+2. However, they are contagious and easily spread so it is important to practice good foot hygiene. ",Lymphoedema or history of lower limb cellulitis. 
+33,Teething/mild toothache,Minor illness suitable for self care,"Teething can be distressing for some babies, but there are ways to make it easier for them. Teething gels often contain a mild local anaesthetic, which helps to numb any pain or discomfort caused by teething and these can be purchased from a pharmacy. If baby is in pain or has a mild raised temperature (less than 38C) then paracetamol or ibuprofen suspension can be given. Toothache can come and go or be constant. Eating or drinking can make the pain worse, particularly if the food or drink is hot or cold. Mild toothache in adults can also be treated with over the counter painkillers whilst awaiting a dental appointment for further investigation.","1. Teething can be distressing for some babies, but there are ways to make it easier for them.
+2. Toothache can come and go, or be constant.
+3. Eating or drinking can make the pain worse, particularly if the food or drink is hot or cold. ","1. Teething gels often contain a mild local anaesthetic, which helps to numb any pain or discomfort caused by teething and these can be purchased from a pharmacy.
+2. If the baby is in pain or has a mild raised temperature (less than 38 degrees) then paracetamol or ibuprofen suspension can be given.
+3. Mild toothache in adults can also be treated with over the counter painkillers. ",
+34,Threadworms,Minor illness suitable for self care,"Threadworms (pinworms) are tiny worms in your stools. They are common in children and can be spread easily. They can be effectively treated without the need to visit the GP. Treatment for threadworms can easily be bought from pharmacies. This is usually a chewable tablet or liquid you swallow. Strict hygiene measures can also help clear up a threadworm infection and reduce the likelihood of reinfection Everyone in the household will require treatment, even if they don’t have symptoms.",Threadworms (pinworms) are tiny worms that pass in the stools. They are common in children and can be spread easily. They can be effectively treated without the need to visit the GP. ,"Patient Action:
+1. Treatment for threadworms can easily be bought from pharmacies. This is usually a chewable tablet or liquid formulation.
+2. Strict hygiene measures can also help clear up a threadworm infection and reduce the likelihood of reinfection.
+3. Everyone in the household will require treatment, even if they do not have symptoms. """,Speak to GP if pregnant or breastfeeding or need to treat a child under the age of 2yrs. 
+35,Travel sickness ,Minor illness suitable for self care,"Mild motion sickness can be treated by various self-care measures (e.g. stare at a fixed object, fresh air, listen to music etc.); more severe motion sickness can be treated with over the counter medicines.","Mild motion sickness can be treated by various self care measures (e.g. staring at a fixed object, getting some fresh air, listening to music etc). ",Severe motion sickness can be treated with over the counter medicines. ,
+36,Back pain,,,,,"See a doctor if you experience any of the following:
+1. Numbness/tingling genitals/buttocks
+2. Difficulty peeing
+3. Loss of bladder/bowel control
+4. High temperature
+5. Weight loss
+6. Swelling/deformity of the back
+7. Pain started following a serious accident"
+37,Fungal Nail Infections ,,,,"Patient Action:
+1. Check self care leaflet for advice on lifestyle changes to prevent/lessen symptoms
+2. Speak to your local pharmacist about Over the Counter (OTC) medicines",
+38,Sleeping problems,,,,"Patient Action:
+1. Check self care leaflet for advice on lifestyle changes to prevent/lessen symptoms
+2. Speak to your local pharmacist about Over the Counter (OTC) medicines",1. Linked to bereavement/depression/mental health 
+39,Sprains and Strains,,,,"Patient Action:
+1. Check self care leaflet for advice on lifestyle changes to prevent/lessen symptoms
+2. Speak to your local pharmacist about Over the Counter (OTC) medicines","1. Pain is severe and not controlled by OTC medication
+2. No improvement after 3-4 days self treatment
+3. Deformity of affected body part/severe bruising/swelling
+4. Can’t move affected joint
+5. Numbness of affected area"
